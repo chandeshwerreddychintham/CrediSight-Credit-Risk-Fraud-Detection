@@ -1,4 +1,3 @@
-Here is the complete, clean README.md ready to copy-paste in one go:markdown
 
 # 🧠 CrediSight – Credit Risk & Fraud Detection Platform
 
@@ -59,7 +58,7 @@ cd CrediSight-Credit-Risk-Fraud-Detection
 pip install -r requirements.txt
 streamlit run app.py
 
- Project Structurebash
+## Project Structurebash
 
 CrediSight/
 ├── app.py                    # Main Streamlit Application
@@ -68,16 +67,23 @@ CrediSight/
 ├── README.md
 └── screenshots/              # Screenshots folder
 
- What This Project DemonstratesEnd-to-end Data Science & ML Workflow
-Solving real-world Financial Domain problems (Credit Risk + Fraud)
-Building interactive tools for business users
+## 🧑‍💻 Author
 
- AuthorChandeswer Reddy
-Data Analytics | Machine Learning Enthusiast
-Email: chandeswerreddy@gmail.com Future EnhancementsAdd SHAP explainability for model transparency
-Integrate Generative AI (Google Gemini) for automated insights
-Build real-time fraud alert dashboard
-Deploy on Streamlit Cloud / AWS
-Connect with real-time APIs
+**Developed by:** Chandeshwer Reddy (Data Science & ML Enthusiast)
+**Purpose:** Demonstration of end-to-end credit risk modeling and anomaly detection using modern ML tools.
 
- CrediSight — Empowering Smarter, Safer Credit Decisions with AI.
+---
+
+
+---
+
+## 💡 Future Enhancements
+
+* Add **SHAP-based explainability** for feature impact.
+* Integrate **live fraud alert dashboard**.
+* Connect with **real-time APIs** for dynamic financial data.
+* Deploy on **Streamlit Cloud / AWS / Azure** for production use.
+
+---
+
+**🎯 CrediSight — Empowering Smarter, Safer Credit Decisions with AI.**

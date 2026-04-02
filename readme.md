@@ -59,13 +59,13 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Project Structurebash
-
-CrediSight/
-├── app.py                    # Main Streamlit Application
-├── requirements.txt          # Dependencies
-├── sample_data.csv           # Sample Credit Data
-├── README.md
-└── screenshots/              # Screenshots folder
+```
+📦 CrediSight
+├── app.py                      # Main Streamlit application
+├── requirements.txt            # Dependencies list
+├── README.md                   # Project documentation
+└── sample_data.csv             # Optional example data
+```
 
 ## 🧑‍💻 Author
 

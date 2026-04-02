@@ -51,12 +51,26 @@ Credit card issuers lose millions due to **defaults** and **fraudulent applicati
 
 ## 🚀 How to Run
 
-
+```
 git clone https://github.com/chandeswerreddychintham/CrediSight-Credit-Risk-Fraud-Detection.git
+```
+```
 cd CrediSight-Credit-Risk-Fraud-Detection
+```
 
 pip install -r requirements.txt
 streamlit run app.py
+
+## 🧠 Project Workflow
+
+1. **Load Data** → Upload or use built-in dataset.
+2. **Preprocess Data** → Handle categorical encoding and derived features.
+3. **Visualize** → Explore numeric and categorical trends.
+4. **Select ML Task** → Choose prediction or anomaly detection mode.
+5. **Train & Evaluate** → Run models, view metrics and plots instantly.
+
+---
+
 
 ## Project Structurebash
 ```

@@ -85,7 +85,7 @@ streamlit run app.py
 
 ## 🧑‍💻 Author
 
-**Developed by:** Chandeshwer Reddy (Data Science & ML Enthusiast)
+**Developed by:** Chandeshwer Reddy (Data Science & ML Enthusiast).
 **Purpose:** Demonstration of end-to-end credit risk modeling and anomaly detection using modern ML tools.
 
 ---

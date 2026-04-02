@@ -88,12 +88,12 @@ streamlit run app.py
 ├── README.md                   # Project documentation
 └── sample_data.csv             # Optional example data
 ```
-
+---
 ## 🧑‍💻 Author
 
 **Developed by:** Chandeshwer Reddy (Data Science & ML Enthusiast).
 **Purpose:** Demonstration of end-to-end credit risk modeling and anomaly detection using modern ML tools.
-
+---
 ---
 
 ## 💡 Future Enhancements

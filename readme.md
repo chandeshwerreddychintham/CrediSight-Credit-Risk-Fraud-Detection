@@ -1,12 +1,17 @@
-
+<img width="2856" height="1504" alt="Screenshot 2026-04-02 173143" src="https://github.com/user-attachments/assets/63aad72d-86f1-4196-bdbd-1e8322fd2732" />
 # 🧠 CrediSight – Credit Risk & Fraud Detection Platform
 
 **End-to-End Machine Learning Web Application** for Credit Card Application Risk Assessment and Fraud Detection.
 
 **CrediSight — Empowering Smarter, Safer Credit Decisions with AI.**
 
-![Dashboard](screenshots/dashboard.png)  
-*(Add 3-4 screenshots of the running app here)*
+![Dashboard]
+<img width="2856" height="1504" alt="Screenshot 2026-04-02 173143" src="https://github.com/user-attachments/assets/444992b6-a31a-45ba-8800-313847b459c3" />
+<img width="2798" height="1335" alt="Screenshot 2026-04-02 173209" src="https://github.com/user-attachments/assets/f4c0931c-a8d5-43c6-9dbc-7e9ffbde5c5b" />
+<img width="2680" height="1501" alt="Screenshot 2026-04-02 173344" src="https://github.com/user-attachments/assets/85609585-88cf-45a2-847e-1c2cdff1710f" />
+
+
+
 
 ---
 

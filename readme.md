@@ -57,10 +57,12 @@ git clone https://github.com/chandeswerreddychintham/CrediSight-Credit-Risk-Frau
 ```
 cd CrediSight-Credit-Risk-Fraud-Detection
 ```
-
+```
 pip install -r requirements.txt
+```
+```
 streamlit run app.py
-
+```
 ## 🧠 Project Workflow
 
 1. **Load Data** → Upload or use built-in dataset.
